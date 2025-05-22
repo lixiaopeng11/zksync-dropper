@@ -1,0 +1,6 @@
+{
+  "zkSyncSepolia": {
+    "contractAddress": "0x927488F48ffbc32112F1fF721759649A89721F8F",
+    "abiPath": "config/mint_abi.json"
+  }
+}
